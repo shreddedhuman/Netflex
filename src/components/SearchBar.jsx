@@ -13,7 +13,7 @@ const SearchBar = () => {
     <Form className='d-flex'>
       <Form.Control
         type='search'
-        placeholder='Busca tu película o serie favorita'
+        placeholder='Busca tu serie favorita'
         className='me-2'
         aria-label='Search'
         value={searchTerm}
